@@ -84,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
