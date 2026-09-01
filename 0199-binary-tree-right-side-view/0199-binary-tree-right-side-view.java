@@ -18,11 +18,11 @@ class Solution {
         Queue<TreeNode> q=new LinkedList<>();
         List<Integer> list=new ArrayList<>();
         q.add(root);
+        q.add(null);
 
         while(q.peek()!=null){
             int LastValue=0;
-            int size=q.size();
-            for(int i=0;i<size;i++){
+            while(q.peek()!=null){
                 TreeNode node=q.poll();
                 LastValue=node.val;
 
@@ -30,6 +30,7 @@ class Solution {
                 if(node.right!=null) q.add(node.right);
             }
             list.add(LastValue);
+            q.add(q.poll());
         }
         return list;
     }
