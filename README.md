@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Tree
 |  |
 | ------- |
@@ -198,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0200-number-of-islands) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
