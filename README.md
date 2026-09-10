@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
 ## Dynamic Programming
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
