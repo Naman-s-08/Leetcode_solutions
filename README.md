@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0228-summary-ranges](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
