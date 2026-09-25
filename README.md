@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0289-game-of-life) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
