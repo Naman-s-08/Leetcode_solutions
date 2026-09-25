@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
