@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0274-h-index) |
 ## Dynamic Programming
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
