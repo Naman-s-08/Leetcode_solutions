@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/Naman-s-08/Leetcode_solutions/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## String
 |  |
 | ------- |
